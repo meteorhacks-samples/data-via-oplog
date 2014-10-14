@@ -1,0 +1,4 @@
+MONGO_OPLOG_URL=mongodb://localhost/local \
+MONGO_URL=mongodb://localhost/appdb \
+meteor -p 3000
+
